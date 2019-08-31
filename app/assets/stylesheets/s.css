@@ -1,0 +1,12 @@
+.contents{
+  height: 400px;
+  width: 400px;
+  padding-top: 100px;
+}
+.form{
+  margin: 0 auto;
+  text-align: center;
+}
+body{
+  padding-top: 100px;
+}
